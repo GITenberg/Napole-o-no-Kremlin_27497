@@ -1,0 +1,31 @@
+_repo: Napole-o-no-Kremlin_27497
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leal, José da Silva Mendes
+    aliases:
+    - Leal, Jose da Silva Mendes
+    - Leal Junior, José da Silva Mendes
+    birthdate: 1818
+    deathdate: 1886
+    gutenberg_agent_id: '9492'
+    url: http://www.gutenberg.org/2009/agents/9492
+    wikipedia: http://pt.wikipedia.org/wiki/Mendes_leal
+description: ''
+gutenberg_issued: '2008-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27497'
+  lccn: ltf91058838
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Napoleão no Kremlin
+url: http://www.gutenberg.org/ebooks/27497
